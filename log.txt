@@ -1,0 +1,63 @@
+commit d1237d8b1ccdb0b8aa8502a3d6d938d0be67cf9e
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Thu Apr 23 10:40:35 2026 +0200
+
+    some details in the html to save
+
+commit 4d3ee3835db4d8713b3716d5b4feb2d80bd60316
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Thu Apr 23 10:33:53 2026 +0200
+
+    connected the html documents with eachother and added contacts
+
+commit 66b88aa21605be417437603539da78ee8c37007e
+Merge: 15d86cc f72bd17
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 17:28:16 2026 +0200
+
+    Merge pull request #3 from Pangpangmarran/text-change-A
+    
+    feat: slogan variant A
+
+commit f72bd177eff218babb353463995e39eef26aec69
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 17:19:20 2026 +0200
+
+    feat: slogan variant A
+
+commit 15d86cc5ac797d3537f896f9a5314996b8fc7b56
+Merge: 0302b87 de20445
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 17:05:29 2026 +0200
+
+    Merge pull request #2 from Pangpangmarran/feature/contact-page
+    
+    Adding a contact page for the project
+
+commit de20445ed518ad8ad36e0910e6dbb11c482891e6
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 16:58:16 2026 +0200
+
+    Adding a contact page for the project
+
+commit 0302b87565744bbf843b4c1218dbcd21881f1d37
+Merge: 42665cb 39b12b5
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 16:48:20 2026 +0200
+
+    Merge pull request #1 from Pangpangmarran/feature/about-page
+    
+    feat: add bare about.html
+    No conflicts, no issues just merge :)
+
+commit 39b12b53b741535d62749b1d1c424a7b30f3279b
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 16:36:35 2026 +0200
+
+    feat: add bare abput.html
+
+commit 42665cbb1852f2dfbdbb5b624464f4bdab9e8857
+Author: Pangpangmarran <anna.aakerman@outlook.com>
+Date:   Sat Apr 18 16:14:38 2026 +0200
+
+    chore: project scaffold (index & css)
