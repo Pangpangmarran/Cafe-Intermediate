@@ -1,0 +1,12 @@
+header {
+    background-color: #dd9e9eaf;
+    padding: 1rem;
+    text-align: center;
+    text-shadow: 1px 1px 2px #000000b7;   
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    margin: 10px;
+    padding: 0;
+}
